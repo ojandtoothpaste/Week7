@@ -64,3 +64,14 @@ function calculateAverage(array) {
   console.log(average); 
 
 //Write a function that takes two arrays of numbers and returns true if the average of the elements in the first array is greater than the average of the elements in the second array.
+function averageElements ([33, 21, 18], [91, 20, 78]){
+    let sum = 0;
+    for(let i=0);
+}
+
+//Write a function called willBuyDrink that takes a boolean isHotOutside, and a number moneyInPocket, and returns true if it is hot outside and if moneyInPocket is greater than 10.50.
+function willBuyDrink (isHotOutside, moneyInPocket){
+    if(willBuyDrink && moneyInPocket > 10.50){
+        return true
+    }
+}
